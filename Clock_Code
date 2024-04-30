@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Clock</title>
-    <!-- css Styling  -->
+    <!------------------------------ css Styling  ------------------------------------>
     <style>
         body{
             height: 100vh;
@@ -23,7 +23,7 @@
             color: aqua;
         }
     </style>
-    <!-- // Java Script -->
+    <!------------------------- // Java Script --------------------------------------->
     <script>
         function updateClock() {
             var now = new Date();
@@ -45,7 +45,7 @@
     </script>
 </head>
 <body>
-    <!-- Main code  -->
+    <!----------------------------------- Main code ---------------------------------->
     <div id="clock">
 
     </div>
