@@ -6,7 +6,7 @@
     <title>Register</title>
     <link rel="stylesheet" href="style.css">
     <script src="app.js" defer></script>
-<!---------------------------------- Style Css ---------------------------------- >
+<!---------------------------------- Style Css -------------------------------- -->
     <style>
     body{
     background: rgb(2,0,36);
